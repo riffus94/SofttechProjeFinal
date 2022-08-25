@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/seref/Desktop/SofttechProje/app/src/main/res/layout/activity_button_query.xml" value="0.17401215805471124" />
+        <entry key="..\:/Users/seref/Desktop/SofttechProje/app/src/main/res/layout/activity_login.xml" value="0.25357142857142856" />
+        <entry key="..\:/Users/seref/Desktop/SofttechProje/app/src/main/res/layout/activity_main.xml" value="0.2595108695652174" />
+        <entry key="..\:/Users/seref/Desktop/SofttechProje/app/src/main/res/layout/activity_master_page.xml" value="0.33" />
+        <entry key="..\:/Users/seref/Desktop/SofttechProje/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/seref/Desktop/SofttechProje/app/src/main/res/layout/item.xml" value="0.22" />
+        <entry key="..\:/Users/wwwse/AndroidStudioProjects/SofttechProje/SofttechProje/app/src/main/res/layout/activity_button_query.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/wwwse/AndroidStudioProjects/SofttechProje/SofttechProje/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/wwwse/AndroidStudioProjects/SofttechProje/SofttechProje/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/wwwse/AndroidStudioProjects/SofttechProje/SofttechProje/app/src/main/res/layout/activity_master_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/wwwse/AndroidStudioProjects/SofttechProje/SofttechProje/app/src/main/res/layout/item.xml" value="0.2" />
+        <entry key="..\:/Users/wwwse/AndroidStudioProjects/SofttechProje/SofttechProje/app/src/main/res/menu/travel_map.xml" value="0.11481481481481481" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

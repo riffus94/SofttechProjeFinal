@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138865191658",
+    "firebase_url": "https://softtech-proje-f42a7-default-rtdb.firebaseio.com",
+    "project_id": "softtech-proje-f42a7",
+    "storage_bucket": "softtech-proje-f42a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138865191658:android:28b59fd5ab2f71d3820593",
+        "android_client_info": {
+          "package_name": "com.softtech.softtechproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138865191658-fh0s0oqdpiidm7jup5l8813jj94gcv93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM1b54BjVSG3YcuQwwRfxVODPFJ8r6UQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138865191658-fh0s0oqdpiidm7jup5l8813jj94gcv93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
